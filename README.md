@@ -54,8 +54,13 @@ Launch the Turtlesim node in a new terminal.
 
 - In terminal 3
 
-  Execute the custom node that moves the turtle in a rectangular path. Open another terminal and     run:
+  Execute the custom node that moves the turtle in a rectangular path. Open another terminal and run:
 
+    ```bash
+    rosrun ros_session move_rectangle.py
+    ```
+
+    for moving in box:
     ```bash
     rosrun ros_session move_box.py
     ```
@@ -63,4 +68,4 @@ Launch the Turtlesim node in a new terminal.
 
 
 #video Link
-https://www.loom.com/share/bdbcb4b1f2964f37a8b47dd1ab9380b1
+https://www.loom.com/share/ea635939d16b4bedae2d95b7d197422e
