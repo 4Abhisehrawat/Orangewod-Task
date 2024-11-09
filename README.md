@@ -39,13 +39,14 @@ This ROS package moves the turtle in the Turtlesim simulator in a rectangular pa
 
 - In terminal 1
 Launch the Turtlesim node in a new terminal.
+
     ```bash
     roscore
     ```
 
 - In terminal 2
 
-Launch the Turtlesim node in a new terminal.
+    Launch the Turtlesim node in a new terminal.
 
     ```bash
     rosrun turtlesim turtlesim_node
